@@ -1,0 +1,11 @@
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9,zh-TW;q=0.8,en-US;q=0.7,en;q=0.6
+cookie: _med=dw:1920&dh:1080&pw:1920&ph:1080&ist:0; cna=15RHFwikdQ0CAXULCI5P57cs; lid=dragoner_lq; enc=4NaVjMc1K%2B%2F9JF2DWztltMGNUij9ytZLDKWvdySyVqSAgfL1HjCusnH6K1hmBvEduhtk6tIbFLsQkN2NRjgfvA%3D%3D; sgcookie=EYMLX6LUF3g%2B0p%2F%2FQaFjz; t=9e487c26e75be7209d3dd7745b311659; uc3=nk2=B1BP%2FHkWbagW864%3D&lg2=U%2BGCWk%2F75gdr5Q%3D%3D&vt3=F8dBxGZoaSNITqGesTQ%3D&id2=UNQ3HxUbzdP8yg%3D%3D; tracknick=dragoner_lq; uc4=id4=0%40UgP8IrF69nYzC7SjWb4A25pBUlCy&nk4=0%40BRM0GLghLR8emJu9wmDatuVHoh2KSQ%3D%3D; lgc=dragoner_lq; _tb_token_=f416db88e7ef5; cookie2=1416ada4e3e4dbb3a82a7d33874532fe; cq=ccp%3D1; res=scroll%3A742*9112-client%3A742*968-offset%3A742*9112-screen%3A1920*1080; pnm_cku822=098%23E1hvwpvUvbpvUvCkvvvvvjiPn2cOgj1Rn2qZQj1VPmP9tjr2RsqO0jiRRLqvQj3CRphvCvvvvvvCvpvVvvpvvhCvmphvLCCELpvj7Spl3ah6dox%2F6jxlIb8rwk%2Fy%2BExrV4tYVVzOa4kAdcZI%2BExrl8TJEcqvafoxdByaWXxrAj7JRAYVyO2v%2Bb8rwmz6D7zOd34tvpvIvvvvvhCvvvvvvvjqphvWUQvv96CvpC29vvm2phCvhhvvvUnvphvpp8yCvv9vvUvtOnTSbOyCvvOUvvVvJhyPvpvhvv2MMTwCvvpvvUmm; isg=BBUVRKyJ55SwgcNoob8iEoDfJBHPEskkuUoe_pe7XQzR7jfgW2Nj9VqouPLYbuHc; l=eBrqDEW4QCjOV_XaBO5aourza77TnIdbzsPzaNbMiInca6pFTeg2xNQDMr4w7dtjgt5fyFtzEdARfdFW8v438KGDbLTqUWqSDKpwRe1..
+referer: https://list.tmall.com/search_product.htm?spm=a220m.1000858.1000724.4.124c2529rsGVv6&q=mate30&sort=d&style=g&from=.list.pc_1_searchbutton
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
